@@ -9,11 +9,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 public class GetTest {
 
     @Test
-    public void test_get(){
+    public void test_get() {
         String name = "AO";
         int length = 5;
         if (name.length() <= length) {
-            log.debug( "输入：{},长度小于5",name);
+            log.debug("输入：{},长度小于5", name);
         }
     }
 }

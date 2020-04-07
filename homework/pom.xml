@@ -8,11 +8,6 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>springboot-springmvc-examples</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-springmvc-examples</name>
-	<description>Demo project for Spring Boot</description>
 
 	<properties>
 		<java.version>11</java.version>
